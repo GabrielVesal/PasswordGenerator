@@ -29,7 +29,3 @@ Após iniciar o programa, será exibido um menu com as seguintes opções:
 - `GerarSenha(int tamanhodasenha, bool aceitaMaiuscula, bool aceitaNumero, bool aceitaSimbolo)`: Gera a senha conforme as preferências do usuário.
 - `SalvarSenha(string senha)`: Salva a senha gerada no arquivo `senhas.txt`.
 - `LerSenhas()`: Retorna uma lista com todas as senhas salvas.
-
-## Download
-Baixe o executável diretamente do repositório no GitHub: [Clique aqui](https://github.com/PasswordGenerator)
-
