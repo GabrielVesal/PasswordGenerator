@@ -31,5 +31,5 @@ Após iniciar o programa, será exibido um menu com as seguintes opções:
 - `LerSenhas()`: Retorna uma lista com todas as senhas salvas.
 
 ## Download
-Baixe o executável diretamente do repositório no GitHub: [Clique aqui](https://github.com/seu-repositorio)
+Baixe o executável diretamente do repositório no GitHub: [Clique aqui](https://github.com/PasswordGenerator)
 
